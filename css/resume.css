@@ -1,0 +1,47 @@
+body {
+    width: 100vw;
+}
+
+.title-re {
+    background-image: url(../media/Resume.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#resume-title {
+    font-family: 'Roboto Slab', serif;
+}
+
+#resume-btn {
+    text-align: left;
+    font-family: 'Ubuntu', serif;
+}
+
+.category {
+    font-family: 'Courgette', serif;
+    font-size: xx-large;
+}
+
+#content-re {
+    background-color: beige;
+}
+
+h4 {
+    font-family: 'Sriracha', serif;
+}
+
+li {
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    font-family: 'Sriracha', serif;
+    font-size: larger;
+}
+
+
+p {
+    margin-bottom: unset;
+    font-family: 'PT sans', serif;
+}

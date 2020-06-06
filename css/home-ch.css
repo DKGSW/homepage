@@ -1,0 +1,36 @@
+body {
+    background-image: url(../media/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#discription-text {
+    padding-right: unset;
+}
+
+
+.cover-photo {
+    display: inline-block;
+    width: 100%;
+}
+
+#name {
+    font-family: 'Noto Sans TC', serif;
+    font-weight: bolder;
+}
+
+#intro {
+    font-family: 'Noto Sans TC', serif;
+}
+
+#detail-btn {
+    text-align: left;
+    font-family: 'Noto Sans TC', serif;
+}
+
+#detail {
+    border-width: initial;
+    font-weight: bolder;
+}

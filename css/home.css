@@ -1,0 +1,35 @@
+body {
+    background-image: url(../media/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#discription-text {
+    padding-right: unset;
+}
+
+
+.cover-photo {
+    display: inline-block;
+    width: 100%;
+}
+
+#name {
+    font-family: 'Roboto Slab', serif;
+}
+
+#intro {
+    font-family: 'Ubuntu', serif;
+}
+
+#detail-btn {
+    text-align: left;
+    font-family: 'Ubuntu', serif;
+}
+
+#detail {
+    border-width: initial;
+    font-weight: bolder;
+}
